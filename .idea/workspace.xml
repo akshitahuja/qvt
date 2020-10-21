@@ -33,6 +33,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -43,8 +44,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603284276550</updated>
-      <workItem from="1603284277635" duration="24000" />
+      <workItem from="1603284277635" duration="305000" />
     </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <created>1603284327909</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603284327909</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -60,5 +69,19 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="535" y="101" width="912" height="911" key="CommitChangelistDialog2" timestamp="1603284327789">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="535" y="101" width="912" height="911" key="CommitChangelistDialog2/72.27.1848.1053@72.27.1848.1053" timestamp="1603284327789" />
+    <state x="172" y="127" width="1648" height="853" key="DiffContextDialog" timestamp="1603284581794">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="172" y="127" width="1648" height="853" key="DiffContextDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1603284581794" />
   </component>
 </project>
